@@ -7,7 +7,7 @@
     "build": "webpack && node pack.js"
   },
   "author": "memset0",
-  "license": "GNU GPL V3",
+  "license": "GPL-3.0",
   "dependencies": {
     "babel-core": "^6.26.3",
     "css-loader": "^3.5.2",
